@@ -19,7 +19,7 @@ piece of software/componet
  * server or client plugin in its own repository/ies
 
 
-installer package definition:
+# installer package definition:
 supports the folling operations:  install upgrade and remove.
 
 An installer package takes a piece of software or a distribution of software out of its
