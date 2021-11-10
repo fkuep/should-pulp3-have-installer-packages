@@ -1,6 +1,16 @@
 # should-pulp3-have-installer-packages
 Why I fear pulp has no installer and does not even want it.
 
+### Summary
+I don't consider https://github.com/pulp/pulp_installer an installer but "orchestrator".
+e.g. When it says it supports fedora 35, that does not mean pulp is installed into fedora, but
+it is supported to enslave a fedora 35 host to become an orchestrated pulp-system.
+The result is, I don't have an installation, but an integration project.
+In the rest of the file I have reiterated what an installer-package is for me to highlight,
+where pulp_installer probably never can be an installer. For You to choose, if You like to clarify,
+what not expect from it or what instead to develop to call it "pulp the installer , the all-current-supported thing."
+
+
 *"the thing , that puts it in my system"* 
 
 ## Terms:
