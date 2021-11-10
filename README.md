@@ -20,7 +20,10 @@ piece of software/componet
 
 
 # installer package definition:
-supports the folling operations:  install upgrade and remove.
+supports the folling operations:
+* install 
+* upgrade 
+* remove.
 
 An installer package takes a piece of software or a distribution of software out of its
 authorative archive(s) and hands the code to software systems install routine
@@ -36,7 +39,7 @@ The installer package respects the local administrators configuration and
 software systems conventions on upgrading integration configurations or operations to its installed services.
 
 
-What it needs:
+# What it needs:
 An installer package has requiements:
 * needs to have access to the authorative archive of 
   * the piece of software 
@@ -53,7 +56,7 @@ An installer package has requiements:
   * an installer usually has the right to refuse to be concerned with other configuration values than mandatory or integration.
 * the distribution wide agreements are only coordinated by the installer team but owned and expressed by all participating projects.
   
-What status does an installer package have in a project:
+# What status does an installer package have in a project:
 * it is release critical to the distribution.
 * the translation of "an installer is outdated" is:
   * since the integration tests (can be as little as insralled ok/running) to Your prefered software-system fail, we don't "natetively" support Your software system in the "pulp3-distribution" You chose.
