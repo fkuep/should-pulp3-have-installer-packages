@@ -1,5 +1,5 @@
 # should-pulp3-have-installer-packages
-Why I fear pulp has no installer and does not know it.
+Why I fear pulp has no installer and does not even want it.
 
 *"the thing , that puts it in my system"* 
 
