@@ -3,7 +3,8 @@ Why I fear pulp has no installer and does not even want it.
 
 *"the thing , that puts it in my system"* 
 
-Terms:
+## Terms:
+*I just listed here what makes up the term to spare a complete definition.* 
 software system
 * kubernetes
 * docker in one
