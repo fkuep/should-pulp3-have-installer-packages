@@ -1,5 +1,5 @@
 # should-pulp3-have-installer-packages
-Why I fear pulp has no installer and does not even want it.
+Why I fear pulp has no installer and does not even [want it](https://github.com/pulp/pulpproject.org/blob/a7a604d3a34536c4a83fea4f66704d747e2aa9ea/_posts/2021-03-22-pup-installer-overview.md#what-motivated-pulp-to-change-the-primary-installation-method).
 
 ### Summary
 I don't consider https://github.com/pulp/pulp_installer an installer but "orchestrator".
